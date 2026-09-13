@@ -1,0 +1,1 @@
+CREATE TABLE people (id INTEGER, tag TEXT, name TEXT,age INTEGER, Balance REAL, is_admin BOOLEAN);
